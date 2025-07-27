@@ -1,0 +1,63 @@
+{
+  "1610.00703v1": {
+    "title": "Space nutrition: the key role of nutrition in human space flight",
+    "authors": [
+      "Catalano Enrico"
+    ],
+    "summary": "From the basic impact of nutrient intake on health maintenance to the\npsychosocial benefits of mealtime, great advancements in nutritional sciences\nfor support of human space travel have occurred over the past 60 years.\nNutrition in space has many areas of impact, including provision of required\nnutrients and maintenance of endocrine, immune, and musculoskeletal systems. It\nis affected by environmental conditions such as radiation, temperature, and\natmospheric pressures, and these are reviewed. Nutrition with respect to space\nflight is closely interconnected with other life sciences research disciplines\nincluding the study of hematology, immunology, as well as neurosensory,\ncardiovascular, gastrointestinal, circadian rhythms, and musculoskeletal\nphysiology. Psychosocial aspects of nutrition are also important for more\nproductive missions and crew morale. Research conducted to determine the impact\nof spaceflight on human physiology and subsequent nutritional requirements will\nalso have direct and indirect applications in Earth-based nutrition research.\nCumulative nutritional research over the past five decades has resulted in the\ncurrent nutritional requirements for astronauts. Realization of the full role\nof nutrition during spaceflight is critical for the success of\nextended-duration missions. Long-duration missions will require quantitation of\nnutrient requirements for maintenance of health and protection against the\neffects of microgravity.\n  Keywords: Space nutrition, space flight, effects of microgravity, astronauts,\nspace food",
+    "pdf_url": "http://arxiv.org/pdf/1610.00703v1",
+    "published": "2016-10-02"
+  },
+  "1907.07245v1": {
+    "title": "A Survey of Automatic Methods for Nutritional Assessment",
+    "authors": [
+      "Lars Brenna",
+      "H\u00e5vard D. Johansen",
+      "Dag Johansen"
+    ],
+    "summary": "Nutritional assessment is key in order to make decisions about the nature and\ncause of nutrition related health issues that affect an individual. The\nsystematic process of collecting and interpreting relevant nutrition\ninformation, however, is still in its technological infancy. Despite\ntechnological advances in storage and analysis of nutritional data, methods for\ncollecting data are largely unchanged over the past two decades. It is well\ndocumented that these methods have issues that cause under-reporting.\nMeanwhile, new developments in wearable biometric logging devices have seen\nincreased traction among individuals. This is sometimes referred to as the\nQuantified Self movement. One part of this movement is the development of\ntechnological means for objectively collecting nutritional data. Nutritional\nassessment, however, is about to be heavily impacted by emerging computer\nscience technologies, and this survey provides an overview of promising\ntechnology approaches supporting nutritional assessment. Both academic and\ncommercial systems are reviewed and categorized.",
+    "pdf_url": "http://arxiv.org/pdf/1907.07245v1",
+    "published": "2019-07-09"
+  },
+  "1508.03441v1": {
+    "title": "An Integrated Mobile Application for Enhancing Management of Nutrition Information in Arusha Tanzania",
+    "authors": [
+      "Neema Mduma",
+      "Khamisi Kalegele"
+    ],
+    "summary": "Based on the fact that management of nutrition information is still a problem\nin many developing countries including Tanzania and nutrition information is\nonly verbally provided without emphasis, this study proposes mobile application\nfor enhancing management of nutrition information. The paper discusses the\nimplementation of an integrated mobile application for enhancing management of\nnutrition information based on literature review and interviews, which were\nconducted in Arusha region for the collection of key information and details\nrequired for designing the mobile application. In this application, PHP\ntechnique has been used to build the application logic and MySQL technology for\ndeveloping the back-end database. Using XML and Java, we have built an\napplication interface that provides easy interactive view.",
+    "pdf_url": "http://arxiv.org/pdf/1508.03441v1",
+    "published": "2015-08-14"
+  },
+  "2312.11569v1": {
+    "title": "Application of AI in Nutrition",
+    "authors": [
+      "Ritu Ramakrishnan",
+      "Tianxiang Xing",
+      "Tianfeng Chen",
+      "Ming-Hao Lee",
+      "Jinzhu Gao"
+    ],
+    "summary": "In healthcare, artificial intelligence (AI) has been changing the way doctors\nand health experts take care of people. This paper will cover how AI is making\nmajor changes in the health care system, especially with nutrition. Various\nmachine learning and deep learning algorithms have been developed to extract\nvaluable information from healthcare data which help doctors, nutritionists,\nand health experts to make better decisions and make our lifestyle healthy.\nThis paper provides an overview of the current state of AI applications in\nhealthcare with a focus on the utilization of AI-driven recommender systems in\nnutrition. It will discuss the positive outcomes and challenges that arise when\nAI is used in this field. This paper addresses the challenges to develop AI\nrecommender systems in healthcare, providing a well-rounded perspective on the\ncomplexities. Real-world examples and research findings are presented to\nunderscore the tangible and significant impact AI recommender systems have in\nthe field of healthcare, particularly in nutrition. The ongoing efforts of\napplying AI in nutrition lay the groundwork for a future where personalized\nrecommendations play a pivotal role in guiding individuals toward healthier\nlifestyles.",
+    "pdf_url": "http://arxiv.org/pdf/2312.11569v1",
+    "published": "2023-12-18"
+  },
+  "2410.14041v1": {
+    "title": "From Barriers to Tactics: A Behavioral Science-Informed Agentic Workflow for Personalized Nutrition Coaching",
+    "authors": [
+      "Eric Yang",
+      "Tomas Garcia",
+      "Hannah Williams",
+      "Bhawesh Kumar",
+      "Martin Ram\u00e9",
+      "Eileen Rivera",
+      "Yiran Ma",
+      "Jonathan Amar",
+      "Caricia Catalani",
+      "Yugang Jia"
+    ],
+    "summary": "Effective management of cardiometabolic conditions requires sustained\npositive nutrition habits, often hindered by complex and individualized\nbarriers. Direct human management is simply not scalable, while previous\nattempts aimed at automating nutrition coaching lack the personalization needed\nto address these diverse challenges. This paper introduces a novel LLM-powered\nagentic workflow designed to provide personalized nutrition coaching by\ndirectly targeting and mitigating patient-specific barriers. Grounded in\nbehavioral science principles, the workflow leverages a comprehensive mapping\nof nutrition-related barriers to corresponding evidence-based strategies. A\nspecialized LLM agent intentionally probes for and identifies the root cause of\na patient's dietary struggles. Subsequently, a separate LLM agent delivers\ntailored tactics designed to overcome those specific barriers with patient\ncontext. We designed and validated our approach through a user study with\nindividuals with cardiometabolic conditions, demonstrating the system's ability\nto accurately identify barriers and provide personalized guidance. Furthermore,\nwe conducted a large-scale simulation study, grounding on real patient\nvignettes and expert-validated metrics, to evaluate the system's performance\nacross a wide range of scenarios. Our findings demonstrate the potential of\nthis LLM-powered agentic workflow to improve nutrition coaching by providing\npersonalized, scalable, and behaviorally-informed interventions.",
+    "pdf_url": "http://arxiv.org/pdf/2410.14041v1",
+    "published": "2024-10-17"
+  }
+}

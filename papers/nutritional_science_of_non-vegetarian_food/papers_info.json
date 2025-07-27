@@ -1,0 +1,63 @@
+{
+  "1610.00703v1": {
+    "title": "Space nutrition: the key role of nutrition in human space flight",
+    "authors": [
+      "Catalano Enrico"
+    ],
+    "summary": "From the basic impact of nutrient intake on health maintenance to the\npsychosocial benefits of mealtime, great advancements in nutritional sciences\nfor support of human space travel have occurred over the past 60 years.\nNutrition in space has many areas of impact, including provision of required\nnutrients and maintenance of endocrine, immune, and musculoskeletal systems. It\nis affected by environmental conditions such as radiation, temperature, and\natmospheric pressures, and these are reviewed. Nutrition with respect to space\nflight is closely interconnected with other life sciences research disciplines\nincluding the study of hematology, immunology, as well as neurosensory,\ncardiovascular, gastrointestinal, circadian rhythms, and musculoskeletal\nphysiology. Psychosocial aspects of nutrition are also important for more\nproductive missions and crew morale. Research conducted to determine the impact\nof spaceflight on human physiology and subsequent nutritional requirements will\nalso have direct and indirect applications in Earth-based nutrition research.\nCumulative nutritional research over the past five decades has resulted in the\ncurrent nutritional requirements for astronauts. Realization of the full role\nof nutrition during spaceflight is critical for the success of\nextended-duration missions. Long-duration missions will require quantitation of\nnutrient requirements for maintenance of health and protection against the\neffects of microgravity.\n  Keywords: Space nutrition, space flight, effects of microgravity, astronauts,\nspace food",
+    "pdf_url": "http://arxiv.org/pdf/1610.00703v1",
+    "published": "2016-10-02"
+  },
+  "2107.05869v3": {
+    "title": "Applications of knowledge graphs for food science and industry",
+    "authors": [
+      "Weiqing Min",
+      "Chunlin Liu",
+      "Leyi Xu",
+      "Shuqiang Jiang"
+    ],
+    "summary": "The deployment of various networks (e.g., Internet of Things [IoT] and mobile\nnetworks), databases (e.g., nutrition tables and food compositional databases),\nand social media (e.g., Instagram and Twitter) generates huge amounts of food\ndata, which present researchers with an unprecedented opportunity to study\nvarious problems and applications in food science and industry via data-driven\ncomputational methods. However, these multi-source heterogeneous food data\nappear as information silos, leading to difficulty in fully exploiting these\nfood data. The knowledge graph provides a unified and standardized conceptual\nterminology in a structured form, and thus can effectively organize these food\ndata to benefit various applications. In this review, we provide a brief\nintroduction to knowledge graphs and the evolution of food knowledge\norganization mainly from food ontology to food knowledge graphs. We then\nsummarize seven representative applications of food knowledge graphs, such as\nnew recipe development, diet-disease correlation discovery, and personalized\ndietary recommendation. We also discuss future directions in this field, such\nas multimodal food knowledge graph construction and food knowledge graphs for\nhuman health.",
+    "pdf_url": "http://arxiv.org/pdf/2107.05869v3",
+    "published": "2021-07-13"
+  },
+  "1408.3600v2": {
+    "title": "Uncovering the nutritional landscape of food",
+    "authors": [
+      "Seunghyeon Kim",
+      "Jaeyun Sung",
+      "Mathias Foo",
+      "Yong-Su Jin",
+      "Pan-Jun Kim"
+    ],
+    "summary": "Recent progresses in data-driven analysis methods, including network-based\napproaches, are revolutionizing many classical disciplines. These techniques\ncan also be applied to food and nutrition, which must be studied to design\nhealthy diets. Using nutritional information from over 1,000 raw foods, we\nsystematically evaluated the nutrient composition of each food in regards to\nsatisfying daily nutritional requirements. The nutrient balance of a food was\nquantified herein as nutritional fitness, using the food's frequency of\noccurrence in nutritionally adequate food combinations. Nutritional fitness\noffers prioritization of recommendable foods within a global network of foods,\nin which foods are connected based on the similarities of their nutrient\ncompositions. We identified a number of key nutrients, such as choline and\nalpha-linolenic acid, whose levels in foods can critically affect the foods'\nnutritional fitness. Analogously, pairs of nutrients can have the same effect.\nIn fact, two nutrients can impact the nutritional fitness synergistically,\nalthough the individual nutrients alone may not. This result, involving the\ntendency among nutrients to show correlations in their abundances across foods,\nimplies a hidden layer of complexity when exploring for foods whose balance of\nnutrients within pairs holistically helps meet nutritional requirements.\nInterestingly, foods with high nutritional fitness successfully maintain this\nnutrient balance. This effect expands our scope to a diverse repertoire of\nnutrient-nutrient correlations, integrated under a common network framework\nthat yields unexpected yet coherent associations between nutrients. Our\nnutrient-profiling approach combined with a network-based analysis provides a\nmore unbiased, global view of the relationships between foods and nutrients,\nand can be extended towards nutritional policies, food marketing, and\npersonalized nutrition.",
+    "pdf_url": "http://arxiv.org/pdf/1408.3600v2",
+    "published": "2014-08-11"
+  },
+  "2310.11702v1": {
+    "title": "DPF-Nutrition: Food Nutrition Estimation via Depth Prediction and Fusion",
+    "authors": [
+      "Yuzhe Han",
+      "Qimin Cheng",
+      "Wenjin Wu",
+      "Ziyang Huang"
+    ],
+    "summary": "A reasonable and balanced diet is essential for maintaining good health. With\nthe advancements in deep learning, automated nutrition estimation method based\non food images offers a promising solution for monitoring daily nutritional\nintake and promoting dietary health. While monocular image-based nutrition\nestimation is convenient, efficient, and economical, the challenge of limited\naccuracy remains a significant concern. To tackle this issue, we proposed\nDPF-Nutrition, an end-to-end nutrition estimation method using monocular\nimages. In DPF-Nutrition, we introduced a depth prediction module to generate\ndepth maps, thereby improving the accuracy of food portion estimation.\nAdditionally, we designed an RGB-D fusion module that combined monocular images\nwith the predicted depth information, resulting in better performance for\nnutrition estimation. To the best of our knowledge, this was the pioneering\neffort that integrated depth prediction and RGB-D fusion techniques in food\nnutrition estimation. Comprehensive experiments performed on Nutrition5k\nevaluated the effectiveness and efficiency of DPF-Nutrition.",
+    "pdf_url": "http://arxiv.org/pdf/2310.11702v1",
+    "published": "2023-10-18"
+  },
+  "2206.02086v1": {
+    "title": "Towards the Creation of a Nutrition and Food Group Based Image Database",
+    "authors": [
+      "Zeman Shao",
+      "Jiangpeng He",
+      "Ya-Yuan Yu",
+      "Luotao Lin",
+      "Alexandra Cowan",
+      "Heather Eicher-Miller",
+      "Fengqing Zhu"
+    ],
+    "summary": "Food classification is critical to the analysis of nutrients comprising foods\nreported in dietary assessment. Advances in mobile and wearable sensors,\ncombined with new image based methods, particularly deep learning based\napproaches, have shown great promise to improve the accuracy of food\nclassification to assess dietary intake. However, these approaches are\ndata-hungry and their performances are heavily reliant on the quantity and\nquality of the available datasets for training the food classification model.\nExisting food image datasets are not suitable for fine-grained food\nclassification and the following nutrition analysis as they lack fine-grained\nand transparently derived food group based identification which are often\nprovided by trained dietitians with expert domain knowledge. In this paper, we\npropose a framework to create a nutrition and food group based image database\nthat contains both visual and hierarchical food categorization information to\nenhance links to the nutrient profile of each food. We design a protocol for\nlinking food group based food codes in the U.S. Department of Agriculture's\n(USDA) Food and Nutrient Database for Dietary Studies (FNDDS) to a food image\ndataset, and implement a web-based annotation tool for efficient deployment of\nthis protocol.Our proposed method is used to build a nutrition and food group\nbased image database including 16,114 food images representing the 74 most\nfrequently consumed What We Eat in America (WWEIA) food sub-categories in the\nUnited States with 1,865 USDA food code matched to a nutrient database, the\nUSDA FNDDS nutrient database.",
+    "pdf_url": "http://arxiv.org/pdf/2206.02086v1",
+    "published": "2022-06-05"
+  }
+}
