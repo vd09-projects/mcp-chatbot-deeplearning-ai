@@ -1,0 +1,62 @@
+{
+  "2409.16601v3": {
+    "title": "Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices",
+    "authors": [
+      "Yunke Zhang",
+      "Yiran Fan",
+      "Peijie Liu",
+      "Fengli Xu",
+      "Yong Li"
+    ],
+    "summary": "Online-to-offline (O2O) food delivery platforms have greatly expanded urban\nresidents' access to a wide range of food options by allowing convenient\nordering from distant food outlets. However, concerns persist regarding the\nnutritional quality of delivered food, particularly as the impact of O2O food\ndelivery platforms on users' healthy food remains unclear. This study leverages\nlarge-scale empirical data from a leading O2O delivery platform to\ncomprehensively analyze online food choice behaviors and how they are\ninfluenced by the online exposure to fast food restaurants, i.e., online food\nenvironment. Our analyses reveal significant variations in food preferences\nacross demographic groups and city sizes, where male, low-income, and younger\nusers are more likely to order fast food via O2O platforms. Besides, we also\nperform a comparative analysis on the food exposure differences in offline and\nonline environments, confirming that the extended service ranges of O2O\nplatforms can create larger \"cyber food swamps\". Furthermore, regression\nanalysis highlights that a higher ratio of fast food orders is associated with\n\"cyber food swamps\", areas characterized by a higher proportion of accessible\nfast food restaurants. A 10% increase in this proportion raises the probability\nof ordering fast food by 22.0%. Moreover, a quasi-natural experiment\nsubstantiates the long-term causal effect of online food environment changes on\nhealthy food choices. These findings underscore the need for O2O food delivery\nplatforms to address the health implications of online food choice exposure,\noffering critical insights for stakeholders aiming to improve dietary health\namong urban populations.",
+    "pdf_url": "http://arxiv.org/pdf/2409.16601v3",
+    "published": "2024-09-25"
+  },
+  "1909.09453v1": {
+    "title": "Application of Clustering Analysis for Investigation of Food Accessibility",
+    "authors": [
+      "Rahul Srinivas Sucharitha",
+      "Seokcheon Lee"
+    ],
+    "summary": "Access to food assistance programs such as food pantries and food banks needs\nfocus in order to mitigate food insecurity. Accessibility to the food\nassistance programs is impacted by demographics of the population and geography\nof the location. It hence becomes imperative to define and identify food\nassistance deserts (Under-served areas) within a given region to find out the\nways to improve the accessibility of food. Food banks, the supplier of food to\nthe food agencies serving the people, can manage its resources more efficiently\nby targeting the food assistance deserts and increase the food supply in those\nregions. This paper will examine the characteristics and structure of the food\nassistance network in the region of Ohio by presenting the possible reasons of\nfood insecurity in this region and identify areas wherein food agencies are\nneeded or may not be needed. Gaussian Mixture Model (GMM) clustering technique\nis employed to identify the possible reasons and address this problem of food\naccessibility.",
+    "pdf_url": "http://arxiv.org/pdf/1909.09453v1",
+    "published": "2019-09-18"
+  },
+  "2012.03606v1": {
+    "title": "Social Capital Contributions to Food Security: A Comprehensive Literature Review",
+    "authors": [
+      "Saeed Nosratabadi",
+      "Nesrine Khazami",
+      "Marwa Ben Abdallah",
+      "Zoltan Lackner",
+      "Shahab S. Band",
+      "Amir Mosavi",
+      "Csaba Mako"
+    ],
+    "summary": "Social capital creates a synergy that benefits all members of a community.\nThis review examines how social capital contributes to the food security of\ncommunities. A systematic literature review, based on Prisma, is designed to\nprovide a state-of-the-art review on capacity social capital in this realm. The\noutput of this method led to finding 39 related articles. Studying these\narticles illustrates that social capital improves food security through two\nmechanisms of knowledge sharing and product sharing (i.e., sharing food\nproducts). It reveals that social capital through improving the food security\npillars (i.e., food availability, food accessibility, food utilization, and\nfood system stability) affects food security. In other words, the interaction\namong the community members results in sharing food products and information\namong community members, which facilitates food availability and access to\nfood. There are many shreds of evidence in the literature that sharing food and\nfood products among the community member decreases household food security and\nprovides healthy nutrition to vulnerable families and improves the food\nutilization pillar of food security. It is also disclosed that belonging to the\nsocial networks increases the community members' resilience and decreases the\ncommunity's vulnerability that subsequently strengthens the stability of a food\nsystem. This study contributes to the common literature on food security and\nsocial capital by providing a conceptual model based on the literature. In\naddition to researchers, policymakers can use this study's findings to provide\nsolutions to address food insecurity problems.",
+    "pdf_url": "http://arxiv.org/pdf/2012.03606v1",
+    "published": "2020-12-07"
+  },
+  "2008.12855v1": {
+    "title": "Personal Food Model",
+    "authors": [
+      "Ali Rostami",
+      "Vaibhav Pandey",
+      "Nitish Nag",
+      "Vesper Wang",
+      "Ramesh Jain"
+    ],
+    "summary": "Food is central to life. Food provides us with energy and foundational\nbuilding blocks for our body and is also a major source of joy and new\nexperiences. A significant part of the overall economy is related to food. Food\nscience, distribution, processing, and consumption have been addressed by\ndifferent communities using silos of computational approaches. In this paper,\nwe adopt a person-centric multimedia and multimodal perspective on food\ncomputing and show how multimedia and food computing are synergistic and\ncomplementary.\n  Enjoying food is a truly multimedia experience involving sight, taste, smell,\nand even sound, that can be captured using a multimedia food logger. The\nbiological response to food can be captured using multimodal data streams using\navailable wearable devices. Central to this approach is the Personal Food\nModel. Personal Food Model is the digitized representation of the food-related\ncharacteristics of an individual. It is designed to be used in food\nrecommendation systems to provide eating-related recommendations that improve\nthe user's quality of life. To model the food-related characteristics of each\nperson, it is essential to capture their food-related enjoyment using a\nPreferential Personal Food Model and their biological response to food using\ntheir Biological Personal Food Model. Inspired by the power of 3-dimensional\ncolor models for visual processing, we introduce a 6-dimensional taste-space\nfor capturing culinary characteristics as well as personal preferences. We use\nevent mining approaches to relate food with other life and biological events to\nbuild a predictive model that could also be used effectively in emerging food\nrecommendation systems.",
+    "pdf_url": "http://arxiv.org/pdf/2008.12855v1",
+    "published": "2020-08-28"
+  },
+  "2004.07454v1": {
+    "title": "Sustainable Recipes. A Food Recipe Sourcing and Recommendation System to Minimize Food Miles",
+    "authors": [
+      "Juan C. S. Herrera"
+    ],
+    "summary": "Sustainable Recipes is a tool that (1) connects food recipes ingredient lists\nwith the closest organic providers to minimize the distance that food travels\nfrom farm to food preparation site and (2) recommends recipes given a GPS\ncoordinate to minimize food miles. Sustainable Recipes provides consumers,\nentrepreneurs, cooking enthusiasts, and restauranteurs in the United States and\nelsewhere with an easy to use interface to help them (1) connect with organic\ningredient producers to source ingredients to produce food recipes minimizing\nfood miles and (2) recommend recipes using locally grown food. The main\nacademic contribution of Sustainable Recipes is to bridge the gap between two\nstreams of literature in data science of food recipes: studies of food recipes\nand studies of food supply chains. The outcomes of the interphase are (1) a map\nvisualization that highlights the location of the producers that can supply the\ningredients for a food recipe along with a ticket consisting of their contact\naddresses and the food miles used to produce a recipe and (2) a list of recipes\nthat minimize food miles for a given GPS coordinate in which the recipe is\ngoing to be produced.",
+    "pdf_url": "http://arxiv.org/pdf/2004.07454v1",
+    "published": "2020-04-16"
+  }
+}
