@@ -1,16 +1,17 @@
-from L4.chatbot import process_query
+from L4.mcp_chatbot import MCP_ChatBot
+import asyncio
 
-def chat_loop():
-    print("Type your queries or 'quit' to exit.")
-    while True:
-        try:
-            query = input("\nQuery: ").strip()
-            if query.lower() == 'quit':
-                break
-    
-            process_query(query)
-            print("\n")
-        except Exception as e:
-            print(f"\nError: {str(e)}")
+async def main():
+    chatbot = MCP_ChatBot()
+    try:
+        # the mcp clients and sessions are not initialized using "with"
+        # like in the previous lesson
+        # so the cleanup should be manually handled
+        await chatbot.connect_to_servers()
+        await chatbot.chat_loop()
+    finally:
+        await chatbot.cleanup()
+  
 
-chat_loop()
+if __name__ == "__main__":
+  asyncio.run(main())
