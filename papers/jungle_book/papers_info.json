@@ -1,0 +1,60 @@
+{
+  "1502.06984v3": {
+    "title": "Model risk on credit risk",
+    "authors": [
+      "J. Molins",
+      "E. Vives"
+    ],
+    "summary": "This paper develops the Jungle model in a credit portfolio framework. The\nJungle model is able to model credit contagion, produce doubly-peaked\nprobability distributions for the total default loss and endogenously generate\nquasi phase transitions, potentially leading to systemic credit events which\nhappen unexpectedly and without an underlying single cause. We show the Jungle\nmodel provides the optimal probability distribution for credit losses, under\nsome reasonable empirical constraints. The Dandelion model, a particular case\nof the Jungle model, is presented, motivated and exactly solved. The Dandelion\nmodel provides an explicit example of doubly-peaked probability distribution\nfor the credit losses. The Diamond model, another instance of the Jungle model,\nexperiences the so called quasi phase transitions; in particular, both the U.S.\nsubprime and the European sovereign crises are shown to be potential examples\nof quasi phase transitions. We argue the three known sources of default\nclustering (contagion, macroeconomic risk factors and frailty) can be\nunderstood under the unifying framework of contagion. We suggest how the Jungle\nmodel is able to explain a series of empirical stylized facts in credit\nportfolios, hard to reconcile by some standard credit portfolio models. We show\nthe Jungle model can handle inhomogeneous portfolios with state-dependent\nrecovery rates. We look at model risk in a credit risk framework under the\nJungle model, especially in relation to systemic risks posed by doubly-peaked\ndistributions and quasi phase transitions.",
+    "pdf_url": "http://arxiv.org/pdf/1502.06984v3",
+    "published": "2015-02-17"
+  },
+  "2306.09880v4": {
+    "title": "Stability of cycles and survival in a Jungle Game with four species",
+    "authors": [
+      "Sofia B. S. D. Castro",
+      "Ana M. J. Ferreira",
+      "Isabel S. Labouriau"
+    ],
+    "summary": "The Jungle Game is used in population dynamics to describe cyclic competition\namong species that interact via a food chain. The dynamics of the Jungle Game\nsupports a heteroclinic network whose cycles represent coexisting species. The\nstability of all heteroclinic cycles in the network for the Jungle Game with\nfour species determines that only three species coexist in the long-run,\ninteracting under cyclic dominance as a Rock-Paper-Scissors Game. This is in\nstark contrast with other interactions involving four species, such as cyclic\ninteraction and intraguild predation. We use the Jungle Game with four species\nto determine the success of a fourth species invading a population of\nRock-Paper-Scissors players.",
+    "pdf_url": "http://arxiv.org/pdf/2306.09880v4",
+    "published": "2023-06-16"
+  },
+  "1203.0321v1": {
+    "title": "High-Performance Distributed Multi-Model / Multi-Kernel Simulations: A Case-Study in Jungle Computing",
+    "authors": [
+      "Niels Drost",
+      "Jason Maassen",
+      "Maarten A. J. van Meersbergen",
+      "Henri E. Bal",
+      "F. Inti Pelupessy",
+      "Simon Portegies Zwart",
+      "Michael Kliphuis",
+      "Henk A. Dijkstra",
+      "Frank J. Seinstra"
+    ],
+    "summary": "High-performance scientific applications require more and more compute power.\nThe concurrent use of multiple distributed compute resources is vital for\nmaking scientific progress. The resulting distributed system, a so-called\nJungle Computing System, is both highly heterogeneous and hierarchical,\npotentially consisting of grids, clouds, stand-alone machines, clusters,\ndesktop grids, mobile devices, and supercomputers, possibly with accelerators\nsuch as GPUs.\n  One striking example of applications that can benefit greatly of Jungle\nComputing Systems are Multi-Model / Multi-Kernel simulations. In these\nsimulations, multiple models, possibly implemented using different techniques\nand programming models, are coupled into a single simulation of a physical\nsystem. Examples include the domain of computational astrophysics and climate\nmodeling.\n  In this paper we investigate the use of Jungle Computing Systems for such\nMulti-Model / Multi-Kernel simulations. We make use of the software developed\nin the Ibis project, which addresses many of the problems faced when running\napplications on Jungle Computing Systems. We create a prototype Jungle-aware\nversion of AMUSE, an astrophysical simulation framework. We show preliminary\nexperiments with the resulting system, using clusters, grids, stand-alone\nmachines, and GPUs.",
+    "pdf_url": "http://arxiv.org/pdf/1203.0321v1",
+    "published": "2012-03-01"
+  },
+  "2102.07941v1": {
+    "title": "On the dimension distortions of quasi-symmetric homeomorphisms",
+    "authors": [
+      "Shengjin Huo"
+    ],
+    "summary": "In this paper, we first generalize a result of Bishop and Steger\n[Representation theoretic rigidity in PSL(2, R). Acta Math., 170, (1993),\n121-149] by proving that for a Fuchsian group $G$ of divergence type and\nnon-lattice, if $h$ is a quasi-symmetric homeomorphism of the real axis\n$\\mathbb{R}$ corresponding to a quasi-conformal compact deformation of $G$.\nThen for any $E\\subset \\mathbb{R}$, we have max(dim$E$,\ndim$h(\\mathbb{R}\\setminus E))=1$. Furthermore, we showed that Bishop and\nsteger's result does not hold for the covering groups of all '$d$-dimensional\njungle gym' (d is any positive integer) which generalizes G\\\"onye's results [\nDifferentiability of quasi-conformal maps on the jungle gym. Trans. Amer. Math.\nSoc. Vol 359 (2007), 9-32] where the author discussed the case of\n'$1$-dimensional jungle gym'.",
+    "pdf_url": "http://arxiv.org/pdf/2102.07941v1",
+    "published": "2021-02-16"
+  },
+  "1706.02003v2": {
+    "title": "Deep Convolutional Decision Jungle for Image Classification",
+    "authors": [
+      "Seungryul Baek",
+      "Kwang In Kim",
+      "Tae-Kyun Kim"
+    ],
+    "summary": "We propose a novel method called deep convolutional decision jungle (CDJ) and\nits learning algorithm for image classification. The CDJ maintains the\nstructure of standard convolutional neural networks (CNNs), i.e. multiple\nlayers of multiple response maps fully connected. Each response map-or node-in\nboth the convolutional and fully-connected layers selectively respond to class\nlabels s.t. each data sample travels via a specific soft route of those\nactivated nodes. The proposed method CDJ automatically learns features, whereas\ndecision forests and jungles require pre-defined feature sets. Compared to\nCNNs, the method embeds the benefits of using data-dependent discriminative\nfunctions, which better handles multi-modal/heterogeneous data; further,the\nmethod offers more diverse sparse network responses, which in turn can be used\nfor cost-effective learning/classification. The network is learnt by combining\nconventional softmax and proposed entropy losses in each layer. The entropy\nloss,as used in decision tree growing, measures the purity of data activation\naccording to the class label distribution. The back-propagation rule for the\nproposed loss function is derived from stochastic gradient descent (SGD)\noptimization of CNNs. We show that our proposed method outperforms\nstate-of-the-art methods on three public image classification benchmarks and\none face verification dataset. We also demonstrate the use of auxiliary data\nlabels, when available, which helps our method to learn more discriminative\nrouting and representations and leads to improved classification.",
+    "pdf_url": "http://arxiv.org/pdf/1706.02003v2",
+    "published": "2017-06-06"
+  }
+}
